@@ -2,6 +2,8 @@ import os
 import json
 import pandas as pd
 
+# Json 중첩객체를 Excel로 변환하는 코드드
+
 # JSON 파일들이 있는 폴더 경로 (예: "./data")
 folder_path = "."
 
